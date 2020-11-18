@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySharedPreferences</string>
+    <string name="main_activity">Home</string>
+    <string name="login_activity">Please Login...</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="welcome">Selamat datang %s</string>
+    <string name="logout">Logout</string>
+</resources>
